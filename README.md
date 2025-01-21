@@ -24,12 +24,12 @@ Data Scientist & Conservation Researcher with extensive experience in tropical e
 - **Machine Learning:** Experience in applying ML for remote sensing in data-poor environments
 
 ## 🎓 Education
-- **PhD Candidate** - Centre for Ecology, Evolution and Environmental Changes, University of Lisbon & UWE (2016--2019)
+- **PhD Candidate** - Centre for Ecology, Evolution and Environmental Changes, University of Lisbon & UWE (2016-2019)
   - Focus: Bat ecology and ecosystem networks in tropical agro-ecosystems
   - Applied machine learning for remote sensing in data-poor countries
 
-- **MSc** - Biodiversity and Conservation, University of Leeds (2009--2010)
-- **BSc** - Zoology, University of Nottingham (2004--2007)
+- **MSc** - Biodiversity and Conservation, University of Leeds (2009-2010)
+- **BSc** - Zoology, University of Nottingham (2004-2007)
 
 ## 💼 Professional Experience
 
